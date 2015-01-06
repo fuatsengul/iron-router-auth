@@ -1,4 +1,4 @@
-This package became discontinued now. We recommend to use this better solution: https://atmospherejs.com/zimme/iron-router-auth
+This package became discontinued now. We recommend you to use this better solution: https://atmospherejs.com/zimme/iron-router-auth
 
 
 iron-router-auth
